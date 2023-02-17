@@ -1,5 +1,5 @@
 # colab-dash
-Attempts at making Dash applications in Google Colab
+## *Attempts at making Dash applications in Google Colab*
 
 
 **grand-rapids-climate-data.csv**  
